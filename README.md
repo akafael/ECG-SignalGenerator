@@ -3,7 +3,7 @@ ECG Signal Generator
 
 Simple ECG Signal Generator with ajustable BPM.
 
-# Requirements
+## Requirements
 
 ### Hardware
  - Teensy 3.1
